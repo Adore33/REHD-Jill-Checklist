@@ -1,4 +1,4 @@
-var profilesKey = 'White_Day_profiles';
+﻿var profilesKey = 'REHD_Jill_profiles';
 
 (function($) {
     'use strict';
